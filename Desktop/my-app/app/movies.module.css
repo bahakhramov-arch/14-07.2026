@@ -1,0 +1,19 @@
+.add {
+  width: 60px;
+  height: 28px;
+  border-radius: 5px;
+  background-color: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.delete {
+  width: 60px;
+  height: 28px;
+  border-radius: 5px;
+  background-color: red;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
