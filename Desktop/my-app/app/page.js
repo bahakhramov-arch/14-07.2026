@@ -10,6 +10,7 @@ export default function Home() {
       display: 'flex',
       flexDirection: 'column',
       alignItems: 'center',
+      
       justifyContent: 'center',
       minHeight: '100vh',
       gap: '1rem',
